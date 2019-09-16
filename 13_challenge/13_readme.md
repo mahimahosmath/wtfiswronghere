@@ -1,0 +1,2 @@
+a) Just had a quick glance at the program and noticed 3 simple errors. 
+b) Addition of a single quote in line 17, addition of the colon for the "if" statement in line 23 and correction of a typo error in line 34 from "fizzybuzz" to "fizzbuzz" created all the magic that was needed.
