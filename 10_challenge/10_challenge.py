@@ -9,7 +9,7 @@ For all integers between 1 and 99 (include both):
     # print fizzbuzz for multiples of 3 and 5"
 """
 import fizzbuzz
-
+from fizzbuzz import fizzbuzz
 #----START OF SCRIPT
 if __name__=='__main__':
     fizzbuzz(100)
