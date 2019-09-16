@@ -1,0 +1,2 @@
+a) Clue was "fizzbuzz() takes 1 positional argument but 2 were given "
+b) Was easy to correct as i had reffered to the python links before doing the challenge and changed line 15 to fizzbuzz(self,max_num) to yeild the correct output.
